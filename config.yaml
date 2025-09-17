@@ -1,0 +1,8 @@
+#data:
+  #input: "data/raw/owid-co2-data.csv"
+  #processed: "data/raw/raw_co2.csv"
+#country: "India"   # change to any country (e.g., "United States", "Germany")
+api:
+  base_url: "https://api.electricitymap.org/v3"
+  token: "fRRo5PPCG5614XSISRDY"
+  zone: "FR"
