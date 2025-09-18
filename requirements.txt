@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+streamlit
+prophet
+reportlab
+scikit-learn
+tensorflow
+pyyaml
