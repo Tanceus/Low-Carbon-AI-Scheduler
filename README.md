@@ -1,6 +1,7 @@
-Low-Carbon AI Scheduler 🌍⚡
 
-Overview
+# Low-Carbon AI Scheduler 🌍⚡
+
+## Overview
 This project demonstrates how AI can support **sustainable energy scheduling** by forecasting CO₂ emissions and recommending low-carbon operation windows.
 
 - Built with **Python, Prophet (forecasting), and Streamlit (dashboard)**.
@@ -9,15 +10,16 @@ This project demonstrates how AI can support **sustainable energy scheduling** b
 
 ---
 
- Why Streamlit?
+## Why Streamlit?
 - Quick, interactive web dashboard.
 - Easy to visualize metrics, plots, and real-time JSON updates.
 - No heavy frontend coding required.
 
-Why Prophet?
+## Why Prophet?
 - Industry-standard time series forecasting tool (developed by Facebook).
 - Handles trends, seasonality, and uncertainty ranges.
 - Easy to explain in presentations.
 
+---
 
-
+## Project Structure
